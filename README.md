@@ -6,3 +6,7 @@ Used the semantic segmentation algorithm from Sagemaker to create, train and dep
 <p align="center">
   <img src="https://github.com/Prz8/Semantic-Segmentation/raw/main/example.png">
 </p>
+
+<p align="center">
+  <img src="https://github.com/Prz8/Semantic-Segmentation/raw/main/result.png">
+</p>
